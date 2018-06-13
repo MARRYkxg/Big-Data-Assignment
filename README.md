@@ -1,8 +1,9 @@
-# Assignment - Pig and Hive
+# Assignment - Pig and Hive<br>Due Sunday 6/24 at 11:59p,
+
 
 **You should thoroughly read through the entire assignment before beginning your work!**
 
-## Pig and Hive Problem Set
+## Pig and Hive Problem Set (15 points)
 
 In this assignment, you will be working with a large subset of a much larger dataset. The dataset you will be using is called the Google Ngram Dataset. You can read more about it here: [http://storage.googleapis.com/books/ngrams/books/datasetsv2.html](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
 
@@ -100,12 +101,15 @@ Remember that when you store the outputs of Pig/Hive, this output is inside HDFS
 
 The results files need to be called `pig-results.csv` and `hive-results.csv`.
 
+The scripts are worth 5 points each.
+The results are worth 2.5 points each.
 
-## Extra Credit
 
-In a file called `extra-credit.txt`, you may answer the following questions for 0.5 points each:
+## Extra Credit (2 points)
 
-1. Do you notice anything unusual in the results dataset? If so, what is it?
+In a file called `extra-credit.txt`, you may answer the following questions for 1 point each:
+
+1. Do you notice anything unusual in the results datasets? If so, what is it?
 2. If you wanted to perform different analytics on the aggregated dataset, how would you approach this?
 
 ## Cluster Setup
